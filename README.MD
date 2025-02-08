@@ -1,8 +1,8 @@
 # API Weather
 
-### Primero que todo muchas gracias por la oportunidad  me diverti con la prueba la hice con Fast Api para ir aprendiendo mejor, esta prueba me permitio mejorar en muchos aspectos pese que mi dominio fuerte es django, siento que pude hacerla muy bien quedo al pendiente  para retroalimentación muchas gracias
+ Primero que todo muchas gracias por la oportunidad  me diverti con la prueba la hice con Fast Api para ir aprendiendo mejor, esta prueba me permitio mejorar en muchos aspectos pese que mi dominio fuerte es django, siento que pude hacerla muy bien quedo al pendiente  para retroalimentación muchas gracias
 
-**Website:**  https://weather-api-fbpi.onrender.com/docs
+### **Website:**  https://weather-api-fbpi.onrender.com/docs
 Aveces se demora en abrir por que es un servidor gratuito pero desde ahi pueden probar los endpoints  desplegando y pulsando el boton Try it out
 
 Existen 2 ramas una main y otra de deploy sugiero usar main 
@@ -98,4 +98,4 @@ Saludos cordiales,
 Brandon Ortega
 [Tu contacto]
 ```
-he de decir que no me pidio nombre de contacto por que chatgpt a ido aprendiedo de mi usuario muchas cosas
+he de decir que no me pidio nombre de contacto por que chatgpt a ido aprendiedo de mi usuario 
