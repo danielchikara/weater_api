@@ -13,5 +13,5 @@ class LocationData(BaseModel):
     local_names: Dict[str, str]
 
 
-class BulkWeatherResponse(BaseModel):
+class LocationWeatherResponse(BaseModel):
     locations: List[LocationData]    

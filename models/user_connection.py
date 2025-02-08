@@ -1,20 +1,22 @@
-import psycopg
+#   se deja comentado para a futuro  conectar a base de datos
 
-class UserConnection():
-    conn = None
+#import psycopg
 
-    def __init__(self):
-        try:
-            self.conn = psycopg.connect("dbname=weater_bd user=danielchikara password=angelesfuimos123 host=localhost port=5432")
-        except psycopg.OperationalError as err:
-            print(err)
-            self.conn.close()
+#class UserConnection():
+ #   conn = None
 
-    def write(self, data):
-        with self.conn.close()  as cur:
-          pass
+  #  def __init__(self):
+   #     try:
+    #        self.conn = psycopg.connect("dbname=weater_bd user=danielchikara password=angelesfuimos123 host=localhost port=5432")
+     #   except psycopg.OperationalError as err:
+      #      print(err)
+       #     self.conn.close()
+
+    #def write(self, data):
+     #   with self.conn.close()  as cur:
+      #    pass
            
 
-    def __def__(self):
-        self.conn.close()
+    #def __def__(self):
+     #   self.conn.close()
     
